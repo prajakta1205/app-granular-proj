@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -37,6 +39,16 @@
   }
 }
 
-h1 {
-  color: red;
+.name{
+  color:grey;
+  border:1px solid grey;
+  padding-top:5px;
+  padding-bottom:5px;
+  width:300px;
+}
+
+.title{
+  color:yellow;
+  border-color:yellow;
+  border-style:dotted;
 }

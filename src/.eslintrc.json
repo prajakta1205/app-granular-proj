@@ -1,0 +1,7 @@
+{
+    "rules": {
+        "no-console":1,
+        "no-var":0
+    }
+
+}
