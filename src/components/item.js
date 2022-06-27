@@ -1,6 +1,5 @@
 import React from "react";
 import './item'
-import '../App.scss';
 
 function item(props) {
   return (
